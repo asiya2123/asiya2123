@@ -76,7 +76,7 @@ Hey there! I'm Asiya, currently pursuing 3rd year of B.Tech Computer Science Eng
 
 💼 LinkedIn: https://www.linkedin.com/in/shaik-asiya786 
 
-🏗️ GitHub: asiya2123
+🏗️ GitHub: https://github.com/asiya2123
 
 ---
 
