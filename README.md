@@ -1,4 +1,6 @@
-#                                                                                             👋 Hi, I'm Asiya Shaik
+#                                                                                                                               👋 Hi, I'm Asiya Shaik
+
+
 
 ## 📌 About Me
 
@@ -57,11 +59,19 @@ Hey there! I'm Asiya, a third-year Computer Science & Engineering student at Min
 
 ---
 
+## 📜 Certifications:
+- VaultofCodes Internship : 1 Month Internship in Web Development.
+- IBM  SkillsBuild : Problem Solving And Communication.
+- Infosys Course : Introduction to Cloud Computing
+- Azure Fundamentals: Cloud Computing
+- Contributor in GirlScript Summer of Code(hashtag#GSSoC) 2025!
+- VOIS :  🛡️ Ethical Hacking,🧑‍💻 Cyber Security Basics,🔑 Cryptography,🌎 Website Threats
+
 ## 📬 Connect with Me:
 
 📧 Email: asiyaasiya59650@gmail.com
 
-💼 LinkedIn: Asiya Shaik
+💼 LinkedIn: https://www.linkedin.com/in/shaik-asiya786 
 
 🏗️ GitHub: asiya2123
 
