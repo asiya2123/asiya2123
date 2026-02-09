@@ -1,10 +1,12 @@
-#                                                                                                                               👋 Hi, I'm Asiya Shaik
 
+<h1 align="center" > 👋 Hi, I'm Asiya Shaik </h1>
+<p align="center">Intern@vaultofcodes|Contributor @GSSoC’25|Front-End Enthusiast |DSA& Python Learner|CSE’27</p>
 
+---
 
 ## 📌 About Me
 
-Hey there! I'm Asiya, a third-year Computer Science & Engineering student at Mina institue of Engineering and technology for women with a passion for coding and crafting innovative solutions. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+Hey there! I'm Asiya, currently pursuing 3rd year of B.Tech Computer Science Engineering student at Mina institue of Engineering and technology for women with a deep interest in frontend development, design, and problem-solving.💻 a passion for coding. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
 
 ---
 
