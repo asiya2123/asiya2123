@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Asiya Shaik
+#                                                                                             👋 Hi, I'm Asiya Shaik
 
 ## 📌 About Me
 
@@ -19,6 +19,11 @@ Hey there! I'm Asiya, a third-year Computer Science & Engineering student at Min
 🛠️ **Developer Tools: Git/GitHub, VS Code.**
 
 🎓 **Academic Coursework: Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS**
+
+<img width="216" height="48" alt="image" src="https://github.com/user-attachments/assets/4583a3ed-9019-4d4e-8dd3-8d19350e3dd1" />
+<img width="554" height="48" alt="image" src="https://github.com/user-attachments/assets/03ce4f09-cf9d-4f56-a516-0efc6723b6ba" />
+
+
 
 
 ---
