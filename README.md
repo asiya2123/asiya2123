@@ -88,6 +88,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/asiya2123/asiya2123/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 📜 Certifications:
 - VaultofCodes Internship : 1 Month Internship in Web Development.
 - IBM  SkillsBuild : Problem Solving And Communication.
