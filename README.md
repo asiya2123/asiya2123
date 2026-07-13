@@ -1,35 +1,61 @@
 
 
 <h1 align="center" > 👋 Hi, I'm Asiya Shaik </h1>
-<p align="center">Intern@vaultofcodes|Contributor @GSSoC’25|Front-End Enthusiast |DSA& Python Learner|CSE’27</p>
+<h3 align="center">💻 B.Tech CSE Student | 🚀 MERN Stack Learner | 🧩 DSA Enthusiast</h3>
 
-
----
-## 📌 About Me
-
-Hey there! I'm Asiya, currently pursuing 3rd year of B.Tech Computer Science Engineering student at Mina institue of Engineering and technology for women with a deep interest in frontend development, design, and problem-solving.💻 a passion for coding. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer+in+Progress;Learning+Data+Structures+%26+Algorithms;Always+Learning+Something+New!" />
+</p>
 
 ---
 
-## 🚀 Skills & Interests:
+## 👩‍💻 About Me
 
-💻 **Programming Languages: Python, C, C++(basic knowledge), HTML, CSS, JavaScript**
+- 🎓 B.Tech Computer Science Student
+- 💻 Passionate about Software Development
+- 🌱 Learning **MERN Stack**
+- 📚 Practicing **Data Structures & Algorithms**
+- 🚀 Love building projects
+- 🎯 Aspiring Software Engineer
 
-📚 **Frameworks/Libraries: Bootstrap**
+---
 
-🗄️ **Databases: MySQL**
+## 🛠️ Tech Stack
 
-🧩 **Data Structures & Algorithms: Structuring information for efficiency**
+<p align="left">
 
-🛠️ **Developer Tools: Git/GitHub, VS Code.**
+<img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 
-🎓 **Academic Coursework: Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS**
+</p>
 
-<!-- <img width="216" height="48" alt="image" src="https://github.com/user-attachments/assets/4583a3ed-9019-4d4e-8dd3-8d19350e3dd1" />
-<img width="554" height="48" alt="image" src="https://github.com/user-attachments/assets/03ce4f09-cf9d-4f56-a516-0efc6723b6ba" /> -->
+---
 
+## 📚 Currently Learning
 
+- MERN Stack
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- REST APIs
 
+---
+
+## 💻 Coding Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://takeuforward.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TakeUForward-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/asiya2123" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
@@ -70,6 +96,24 @@ Hey there! I'm Asiya, currently pursuing 3rd year of B.Tech Computer Science Eng
 - Contributor in GirlScript Summer of Code(hashtag#GSSoC) 2025!
 - VOIS :  🛡️ Ethical Hacking,🧑‍💻 Cyber Security Basics,🔑 Cryptography,🌎 Website Threats
 
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asiya2123&theme=tokyo-night&hide_border=true"/>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=asiya2123&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
 ## 📬 Connect with Me:
 
 📧 Email: asiyaasiya59650@gmail.com
@@ -79,8 +123,12 @@ Hey there! I'm Asiya, currently pursuing 3rd year of B.Tech Computer Science Eng
 🏗️ GitHub: https://github.com/asiya2123
 
 ---
+---
 
-## 💡 Feedback Welcome!
+## 💭 Quote
 
-- I'm still learning and growing as a developer, so I welcome constructive feedback and suggestions. Feel free to reach out on any platform above—let's connect! 🚀
+> **"Consistency beats perfection. Small progress every day leads to big success."** 🚀
 
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
