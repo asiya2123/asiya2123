@@ -88,6 +88,34 @@
 
 ---
 
+## 🔥 Things I've Built
+
+<div align="center">
+
+<a href="https://github.com/asiya2123/weather-app">
+<img src="https://img.shields.io/badge/🌦️%20Weather%20App-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/asiya2123/todo-app">
+<img src="https://img.shields.io/badge/📋%20Todo%20App-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/asiya2123/quiz-app">
+<img src="https://img.shields.io/badge/🧠%20Quiz%20App-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/asiya2123/random-password-generator">
+<img src="https://img.shields.io/badge/🔐%20Password%20Generator-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/asiya2123/french-poem-generator">
+<img src="https://img.shields.io/badge/🇫🇷%20French%20Poem%20Generator-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
