@@ -30,12 +30,12 @@
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
-- MERN Stack
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- REST APIs
+- ⚛️ MERN Stack Development (MongoDB, Express.js, React.js, Node.js)
+- 📚 Data Structures & Algorithms (LeetCode + TUF)
+- 💻 Building Responsive Web Applications
+- 🚀 Strengthening Problem-Solving & Full-Stack Development Skills
 
 ---
 
