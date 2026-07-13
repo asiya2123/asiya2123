@@ -43,12 +43,12 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+<a href="https://leetcode.com/u/jLwOWlYeHk/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="https://takeuforward.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TakeUForward-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TakeUForward-0052CC?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </a>
 
 <a href="https://github.com/asiya2123" target="_blank">
@@ -96,13 +96,11 @@
 
 ---
 
-## 📜 Certifications:
-- VaultofCodes Internship : 1 Month Internship in Web Development.
-- IBM  SkillsBuild : Problem Solving And Communication.
-- Infosys Course : Introduction to Cloud Computing
-- Azure Fundamentals: Cloud Computing
-- Contributor in GirlScript Summer of Code(hashtag#GSSoC) 2025!
-- VOIS :  🛡️ Ethical Hacking,🧑‍💻 Cyber Security Basics,🔑 Cryptography,🌎 Website Threats
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/jLwOWlYeHk?theme=dark&font=Karma&ext=contest" />
+</p>
 
 ---
 
