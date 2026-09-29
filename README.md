@@ -4,7 +4,7 @@
 <h3 align="center">💻 B.Tech CSE Student | 🚀 Python Fullstack Learner | 🧩 DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;MERN+Stack+Developer+in+Progress;Learning+Data+Structures+%26+Algorithms;Always+Learning+Something+New!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Python+Fullstack+Developer+in+Progress;Learning+Data+Structures+%26+Algorithms;Always+Learning+Something+New!" />
 </p>
 
 ---
