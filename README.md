@@ -13,7 +13,7 @@
 
 - 🎓 B.Tech Computer Science Student
 - 💻 Passionate about Software Development
-- 🌱 Learning **MERN Stack**
+- 🌱 Learning **Python Fullstack**
 - 📚 Practicing **Data Structures & Algorithms**
 - 🚀 Love building projects
 - 🎯 Aspiring Software Engineer
