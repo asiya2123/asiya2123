@@ -32,7 +32,7 @@
 
 ## 🌱 Currently Learning
 
-- ⚛️ MERN Stack Development (MongoDB, Express.js, React.js, Node.js)
+- ⚛️ Pythonfullstack Development (MySQLDB, React.js, Node.js)
 - 📚 Data Structures & Algorithms (LeetCode + TUF)
 - 💻 Building Responsive Web Applications
 - 🚀 Strengthening Problem-Solving & Full-Stack Development Skills
